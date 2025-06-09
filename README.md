@@ -1,6 +1,6 @@
 ## 🎯 **Who am I?**
 
-Hello! I'm James
+Hello! I'm James 🍄
 
 - ⚡️ Self taught software engineer
 - 🌍 Infrastructure & End User Compute
