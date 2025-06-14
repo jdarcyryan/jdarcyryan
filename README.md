@@ -31,6 +31,7 @@ Hello! I'm James 🍄
 ![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-5C2D91?style=for-the-badge&logo=windows&logoColor=white)
 ![WinRM](https://img.shields.io/badge/WinRM-881798?style=for-the-badge&logo=powershell&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
 ![InTune](https://img.shields.io/badge/Intune-00BCF2?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Exchange](https://img.shields.io/badge/Exchange-FFB900?style=for-the-badge&logo=microsoft-exchange&logoColor=white)
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
